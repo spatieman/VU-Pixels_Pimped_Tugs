@@ -1,0 +1,11 @@
+{
+    "Name": "Iamadeadpixel's Pimped Tugs",
+    "Description": "Pimped Tugs",
+    "Version": "1.0.0",
+    "Authors": [ "iamadeadpixel" ],
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    },
+    "Tags": [ "pimped-tugs" ]
+}
